@@ -9,5 +9,5 @@ A Python-based system utilizing **NumPy** for generating, normalizing, and analy
 
 ## Tech Stack
 * **Language:** Python
-* **Libraries:** NumPy, Pandas (for data handling), Matplotlib (for visualization)
+* **Libraries:** NumPy
 *
