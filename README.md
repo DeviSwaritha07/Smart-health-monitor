@@ -1,2 +1,13 @@
 # Smart-health-monitor
-A  python + Numpy based health monitoring system for analyzing BMI and heart rate. 
+# Smart Health Monitor
+A Python-based system utilizing **NumPy** for generating, normalizing, and analyzing synthetic health data.
+
+## Features
+* **Data Simulation:** Generates synthetic patient vitals (Heart Rate, BP, SpO2) using Normal Distribution.
+* **Data Normalization:** Implements Min-Max Scaling to prepare data for Machine Learning.
+* **Health Analysis:** (Coming Soon) BMI calculation and health alert system.
+
+## Tech Stack
+* **Language:** Python
+* **Libraries:** NumPy, Pandas (for data handling), Matplotlib (for visualization)
+*
