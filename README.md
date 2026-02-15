@@ -1,4 +1,3 @@
-# Smart-health-monitor
 # Smart Health Monitor
 A Python-based system utilizing **NumPy** for generating, normalizing, and analyzing synthetic health data.
 
